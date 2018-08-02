@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Serenity id info","File does not exist","COMPROMISED","2018-08-02T09:26:02.223+01:00","0.0","0.01"
+"Serenity id info","Get all students","SUCCESS","2018-08-02T09:26:02.233+01:00","0.0","0.18"
+"Serenity id info","This is a pending test","PENDING","2018-08-02T09:25:58.720+01:00","0.0","0.0"
+"Serenity id info","This is a skipped test","IGNORED","2018-08-02T09:25:58.484+01:00","0.0","0.15"
+"Serenity id info","This is amanual test","PENDING","2018-08-02T09:26:02.411+01:00","0.0","0.0"
+"Serenity id info","This is atest with error","ERROR","2018-08-02T09:25:58.662+01:00","0.0","0.03"
+"Serenity id info","This isa failing","FAILURE","2018-08-02T09:25:58.727+01:00","0.0","3.49"
